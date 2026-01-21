@@ -1,0 +1,62 @@
+
+
+
+body{
+    background-color: bisque;
+}
+
+h1{
+    color: blue;
+    border: solid 5px cadetblue; 
+    border-radius: 20px;
+
+}
+h2{
+    color: red;
+    border-bottom: solid blue;
+}
+h3{
+    color: yellow;
+    border-top: solid green;
+}
+h4{
+    color: green;
+    border-style:double;
+}
+h5{
+    color: purple;
+    border-left: solid yellow 25px;
+}
+
+#p1{
+    color: cadetblue;
+}
+
+#p2{
+    color: darkcyan;
+}
+
+#p3{
+    background-color: aquamarine;
+}
+
+#div1{
+    background-color: blueviolet;
+}
+
+#span2{
+    color: gold;
+}
+
+.first{
+    
+    text-shadow: 10px;
+}
+
+.second{
+    background-color: blue;
+}
+
+h6{
+    text-shadow: 1px 4px 3px rgb(189, 42, 42), -1px -4px -3px rgb(0, 0, 255);
+}
